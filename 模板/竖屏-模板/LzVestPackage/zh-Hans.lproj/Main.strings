@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "00"; ObjectID = "0Ts-tc-6Tq"; */
+"0Ts-tc-6Tq.text" = "00";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "5OW-aW-Dsa"; */
+"5OW-aW-Dsa.text" = "00";
+
+/* Class = "UILabel"; text = "000170"; ObjectID = "ATX-4O-ojk"; */
+"ATX-4O-ojk.text" = "000170";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "Awl-Vi-ttb"; */
+"Awl-Vi-ttb.text" = "00";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "GaM-6g-MGQ"; */
+"GaM-6g-MGQ.text" = "00";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "ObP-ir-1lD"; */
+"ObP-ir-1lD.text" = "00";
+
+/* Class = "UILabel"; text = "剩余积分"; ObjectID = "UbP-Vl-b2X"; */
+"UbP-Vl-b2X.text" = "剩余积分";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "Uti-3d-YSp"; */
+"Uti-3d-YSp.text" = "00";
+
+/* Class = "UILabel"; text = "得分"; ObjectID = "Yjh-nD-l5f"; */
+"Yjh-nD-l5f.text" = "得分";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "Yy6-n7-kMH"; */
+"Yy6-n7-kMH.text" = "00";
+
+/* Class = "UILabel"; text = "点击开始游戏自动将得分转入剩余积分中"; ObjectID = "eB7-0Q-3NP"; */
+"eB7-0Q-3NP.text" = "点击开始游戏自动将得分转入剩余积分中";
+
+/* Class = "UILabel"; text = "当剩余积分为零时,方可点击重置 点击后重置为100积分"; ObjectID = "gNq-ss-vMB"; */
+"gNq-ss-vMB.text" = "当剩余积分为零时,方可点击重置 点击后重置为100积分";
+
+/* Class = "UILabel"; text = "000180"; ObjectID = "jxI-be-908"; */
+"jxI-be-908.text" = "000180";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "qGx-Ar-xV5"; */
+"qGx-Ar-xV5.text" = "00";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "txt-yk-E0h"; */
+"txt-yk-E0h.text" = "00";
